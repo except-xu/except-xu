@@ -1,5 +1,5 @@
 ### Hi there 👋
-![image](pexels-photo-2246476.jpeg)
+<div align="left" >![image](pexels-photo-2246476.jpeg)</div>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=except-xu&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 <!--
